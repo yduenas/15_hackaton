@@ -1,0 +1,68 @@
+{
+  "contactos": [
+    {
+      "id": 1,
+      "nombre": "Ryan Duenas",
+      "url": "./img/silueta.jpg",
+      "telefono": "123 456 789",
+      "correo": "ryan@gmail.com",
+      "pais": "Peru",
+      "about": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "visualizaciones": 0
+    },
+    {
+      "id": 2,
+      "nombre": "Jesus Duenas",
+      "url": "./img/silueta.jpg",
+      "telefono": "223 456 789",
+      "correo": "jesus@gmail.com",
+      "pais": "Peru",
+      "about": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "visualizaciones": 0
+    },
+    {
+      "id": 3,
+      "nombre": "Hugo Duenas",
+      "url": "./img/silueta.jpg",
+      "telefono": "323 456 789",
+      "correo": "hugo@gmail.com",
+      "pais": "Peru",
+      "about": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "visualizaciones": 0
+    },
+    {
+      "id": 5,
+      "nombre": "Giacomo",
+      "visualizaciones": 0,
+      "url": "./img/silueta.jpg",
+      "about": "Dueñas"
+    },
+    {
+      "id": 6,
+      "nombre": "Claudia",
+      "visualizaciones": 0,
+      "url": "./img/silueta.jpg",
+      "about": "asdf  retw sdf fgds ",
+      "telefono": "123 456 789",
+      "correo": "claudia@gmail.com",
+      "pais": "Peru"
+    },
+    {
+      "id": 7,
+      "nombre": "Soledad",
+      "visualizaciones": 0,
+      "url": "./img/silueta.jpg",
+      "about": "ella es mi madre",
+      "telefono": "234 567 890",
+      "correo": "soledad@gmail.com",
+      "pais": "Spain"
+    },
+    {
+      "id": 8,
+      "nombre": "Gael Duenas",
+      "visualizaciones": 0,
+      "url": "./img/silueta.jpg",
+      "about": "asdfdfsa rttrth"
+    }
+  ]
+}
